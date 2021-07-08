@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/124993383-27a66880-dff9-11eb-9ceb-c2786aaa17c8.png">
   <br />
   Rocky Linux Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide on setting up your Rocky Linux Desktops with all the essential Applications, Tools, and Games to make your experience with Rocky Linux great!
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124993386-29702c00-dff9-11eb-9fc8-a88e8bf17d31.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -79,12 +84,11 @@
 
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
 
-
- <h1 align="center">
- <img src="">
+ <h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124993391-2b39ef80-dff9-11eb-9197-40c84c7f385f.png">
   <br />
   Rocky Linux Desktop
-</h1>
+</h3>
 
 ## GNOME Tweaks
 
